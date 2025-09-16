@@ -63,10 +63,10 @@ To mitigate these risks, we will make an effort to:
 - Consult with subject matter experts in data ethics, recommender systems, sociology, and more to guide our design decisions with external insight;
 - Regularly review team discussions to ensure non-technical perspectives (e.g., ethics, business, strategy) are considered alongside technical solutions.
 
-While we value our team’s multicultural and cross-cultural background, we understand he importance of acknowledging these unconscious biases early. We hope that by taking steps to broaden our perspectives, we may not only foster a more balanced team dynamic but ultimately design a recommendation system that balances transparency with fairness, trust, and inclusivity.
+While we value our team’s multicultural and cross-cultural background, we understand the importance of acknowledging these unconscious biases early. We hope that by taking steps to broaden our perspectives, we may not only foster a more balanced team dynamic but ultimately design a recommendation system that balances transparency with fairness, trust, and inclusivity.
 
 ## Moving Forward
 
 As *Vera* develops, we recognize that the strength of our team extends beyond technical depth and entrepreneurial background. Our global mix of members from Canada and Singapore gives us a valuable cross-cultural perspective, but we are also mindful of the limits of our diversity and the risks of unconscious bias. By being transparent about these blind spots, seeking guidance from subject matter experts, and actively engaging with users beyond our immediate circles, we aim to ensure our platform reflects fairness, inclusivity, and trustworthiness.
 
-Ultimately, our goal is not only to build a recommender system that provides accurate suggestions but also one that earns user confidence by clearly explaining *why* recommendations are made. This commitment to transparency, inclusivity, and continuous reflection will allow Vera to evolve into a product that resonates with a wide variety of users and strengthens the social connections at the heart of our platform.
+Ultimately, our goal is not only to build a recommender system that provides accurate suggestions but also one that earns user confidence by clearly explaining *why* recommendations are made. This commitment to transparency, inclusivity, and continuous reflection will allow *Vera* to evolve into a product that resonates with a wide variety of users and strengthens the social connections at the heart of our platform.
