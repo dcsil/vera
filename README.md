@@ -1,19 +1,8 @@
-# Team Repo Template
+# Vera
 
-This Repository includes a template for your Team's Repository. https://github.com/dcsil/klutch is a good example of an implementation of this!
+<img src = './logo.png' alt="Team Logo" width=400>
 
-**README template starts below this line 👇👇👇 Delete above this line :)**
-
-# COMPANY NAME
-
-![Team Logo](./logo.png)
-
-#### Team Slack Channel: #team\-\<your\-company\-name\-here\>
-
-COMPANY NAME is a company founded in the THEME industry. COMPANY NAME aims to VISION STATEMENT.
-
-Table of Contents
----
+We want to build the most trustworthy and inclusive recommendation system ever. 
 
 - [People](./team/)
 - [Diversity](./team/diversity.md)
