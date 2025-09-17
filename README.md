@@ -1,7 +1,8 @@
+# Vera
+
 <p align="center">
   <img src="./logo.png" alt="Team Logo" width="400">
 </p>
-# Vera
 Discover not just what to choose, but why it’s right for you.
 
 - [People](./team/)
