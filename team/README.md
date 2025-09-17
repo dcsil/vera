@@ -2,10 +2,13 @@
 
 # People at Vera
 - [Franco Miguel Valencia - Leader, R&D](./francomiguel_valencia.md)
-- [Jisung Shin - Engineering](./jisung_shin.md)
+- [Kyoeun Kim - Marketing](./kyoeun_kim.md)
+- [Charlyn Kwan - Engineering](./charlyn_kwan.md)
+- [Kai Jie Leow - Business](./kai_jie_leow.md)
+- [Jisung Shin - AI & Product](./jisung_shin.md)
 
 ### Team Leader
-[Franco Miguel Valencia - Leader, Engineering, and Strategy](./francomiguel_valencia.md)  
+[Franco Miguel Valencia](./francomiguel_valencia.md)  
 
 Franco has been selected as our leader due to his balanced background spanning research, project management, public presentations, and experience working at a startup. Additionally, he has ample experience leading, founding, and organizing multiple clubs and student publications, making him used to giving equal consideration to everyone's opinions and a fitting choice for overseeing our startup's progress.
 
