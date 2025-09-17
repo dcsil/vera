@@ -2,7 +2,7 @@
 
 <img src = './logo.png' alt="Team Logo" width=400>
 
-We want to build the most trustworthy and inclusive recommendation system ever. 
+The recommendation system that finally explains why.
 
 - [People](./team/)
 - [Diversity](./team/diversity.md)
