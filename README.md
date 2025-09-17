@@ -1,8 +1,8 @@
+<p align="center">
+  <img src="./logo.png" alt="Team Logo" width="400">
+</p>
 # Vera
-
-<img src = './logo.png' alt="Team Logo" width=400>
-
-The recommendation system that finally explains why.
+Discover not just what to choose, but why it’s right for you.
 
 - [People](./team/)
 - [Diversity](./team/diversity.md)
