@@ -9,7 +9,7 @@ Franco Miguel Valencia – 1009486771
 Jisung Shin – 1004192170
 
 ## TL;DR
-LangChain is one of the most robust frameworks for building agentic workflows, offering flexible customization and supported by a large and growing community. Its documentation is **clear, accessible, and regularly updated**, making it approachable for new users. However, **debugging can be daunting**, as built-in observability is limited. To mitigate this, we recommend using `loguru` and `tiktoken` for transparency, while also keeping the LangChain documentation open alongside the IDE to streamline troubleshooting.
+LangChain is one of the most robust and widely-adopted frameworks for building agentic workflows. We built a LangGraph-based ReAct agent, deployed it with FastAPI, and tested it using Postman. Setup was smooth with **clear and accessible documentation**, but debugging proved difficult due to limited built-in observability. We recommend using external tools like `loguru` and `tiktoken` to help track agent behavior and costs more effectively.
 <br>
 
 ## Our User Goal
