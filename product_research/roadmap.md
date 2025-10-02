@@ -10,7 +10,7 @@ Here, we discuss our timeline with respect to our **tech stack**, including our 
 ### ST-1: Infrastructure & Developer Environment
 - Set up the GitHub repo and establish a branching and commit strategy.
 - Define `.gitignore` and any linting rules.
-- Initialize frontend with Flutter (Dart) for cross-platform iOS/Android mobile app development, with low-fidelity skeches in Figma guiding UI.
+- Initialize frontend with Flutter (Dart) for cross-platform iOS/Android mobile app development, with low-fidelity sketches in Figma guiding UI.
 - Initialize backend service with Python (FastAPI) for APIs and business logic.
 - Set up a lightweight database (SQLite/Postgres) for our MVP.
 - Create environment files for secrets management.
