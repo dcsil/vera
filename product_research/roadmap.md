@@ -16,7 +16,7 @@ Here, we discuss our timeline with respect to our **tech stack**, including our 
 - Create environment files for secrets management.
   
 ### ST-2: Testing
-- Unit test framework setup (which framework for frontend? Pytest or Mocha/Chai for backend)
+- Unit test framework setup using `flutter_test` and `mockito` for frontend and `pytest` for backend.
   
 ### ST-3: Main Product Features
 - M1: Implement the auth page, with login/signup (email, Google OAuth)
