@@ -29,7 +29,7 @@ Here, we discuss our timeline with respect to our **tech stack**, including our 
 - Draft and conduct 5-8 user interviews with target personas
 
 ### Main Deliverables
-- Mostly-working MVP skeleton: user can sign up, complete onboarding, and see mock recommendations
+Mostly-working MVP skeleton: user can sign up, complete onboarding, and see mock recommendations
 
 
 ## Medium-Term — MVP Completion & Pilot Testing
@@ -59,7 +59,7 @@ Here, we discuss our timeline with respect to our **tech stack**, including our 
 - Refine feature priorities based on feedback
 
 ### Main Deliverables
-- Functional MVP covering all 3 main CUJs and at least 2 secondary CUJs
+Functional MVP covering all 3 main CUJs and at least 2 secondary CUJs
 
 
 ## Long-Term — Expansion & Launch Prep
@@ -85,9 +85,9 @@ Here, we discuss our timeline with respect to our **tech stack**, including our 
 - Collect retention + engagement metrics
 - Refine features for a v2.0 based on feedback
 - Low-Fidelity Launch Plan
-- Soft Launch: campus-wide pilot within 9-12 months
-- Public Launch: app store/web rollout within 3-4 months after soft launch
+  - Soft Launch: campus-wide pilot within 9-12 months
+  - Public Launch: app store/web rollout within 3-4 months after soft launch
 
 ### Main Deliverables
-- Production-ready app with stable infrastructure, full CUJ support, and a real user base
+Production-ready app with stable infrastructure, full CUJ support, and a real user base
 
