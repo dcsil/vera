@@ -1,4 +1,4 @@
-## ADR 017: Firebase Integration — User Authentication & Firestore Database
+## ADR 013: Firebase Integration — User Authentication & Firestore Database
 
 ## Context
 We need a reliable backend service to manage user accounts (sign-in, onboarding, and saved preferences) and to store restaurant metadata, search queries, and user interactions.
