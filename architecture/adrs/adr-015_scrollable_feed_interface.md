@@ -1,4 +1,4 @@
-## ADR 019: Scrollable Feed Interface — Focused Exploration & Efficient Data Loading
+## ADR 015: Scrollable Feed Interface — Focused Exploration & Efficient Data Loading
 
 ## Context
 
