@@ -37,9 +37,9 @@ Mostly-working MVP skeleton: user can sign up, complete onboarding, and see mock
 **Date Goal**: Approx. 2–6 Months; Q1 2026
 
 ### MT-1: Infrastructure
-- Migrate from SQLite to Postgres (Heroku or AWS)
+- Migrate from pure firebase to spanner and cloud SQL with Cloud Datastore
 - Add Docker containerization for easier dev/test deployment
-- Deploy a staging server (Heroku/AWS and EC2/Netlify)
+- Deploy staging and test environments on Cloud Run
 
 ### MT-2: Testing
 - Expand unit tests to cover onboarding, recommendation engine, and filters
