@@ -2,7 +2,7 @@
 *This document is subject to evolve.*
 
 ## Communication
-Our primary communication platform will be a private Discord server. To maintain alignment in a fast-moving environment, each member is expected to share a daily update in the `#daily-updates` channel. Updates should follow a consistent format that includes: (1) current tasks, (2) next steps, and (3) blockers. If a member is unable to work on the project during a given period, they must inform the team of their unavailable timeframe and provide a reason, which may be as simple as another course commitment such as midterms.  
+Our primary communication platform will be a private WhatsApp groupchat. To maintain alignment in a fast-moving environment, each member is expected to share an update on daily basis. Updates should follow a consistent format that includes: (1) current tasks, (2) next steps, and (3) blockers. If a member is unable to work on the project during a given period, they must inform the team of their unavailable timeframe and provide a reason, which may be as simple as another course commitment such as midterms.  
 
 Frequent updates are essential for transparency. Even if work is being completed, failure to provide regular updates will result in a warning. This ensures we remain coordinated, avoid overlapping effort, and sustain efficiency in a startup-like environment where roles and tasks often shift. For emergencies, we will maintain a shared list of phone numbers. Calls and texts should only be used in rare, time-sensitive situations that require immediate attention.  
 
@@ -16,7 +16,7 @@ Additional working sessions will take place as necessary. While not always requi
 ---
 
 ## Work and Responsibilities
-Tasks will be managed using a ticket-based project management tool such as Jira, ClickUp, or Notion. Sprint tasks will be tracked on kanban boards, while a single Gantt chart will provide a roadmap for the semester. A formal project manager role will be established to ensure tickets are kept up-to-date and that the boards remain well-organized.  
+Tasks will be managed using Notion. Sprint tasks will be tracked on kanban boards, while a single Gantt chart will provide a roadmap for the semester. A formal project manager role will be established to ensure tickets are kept up-to-date and that the boards remain well-organized.  
 
 As we are all students balancing other courses, asynchronous collaboration will be especially important. Members should maximize the use of async communication channels and are encouraged to provide video walkthroughs or updates using tools such as Loom. This allows for clear explanations of work progress and decisions without requiring all members to be present simultaneously.  
 
