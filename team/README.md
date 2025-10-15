@@ -1,6 +1,6 @@
-[Vera Principles](./principles.md)
+[Palate Principles](./principles.md)
 
-# People at Vera
+# People at Palate
 - [Franco Miguel Valencia - Leader, R&D](./francomiguel_valencia.md)
 - [Kyoeun Kim - Marketing](./kyoeun_kim.md)
 - [Charlyn Kwan - Engineering](./charlyn_kwan.md)

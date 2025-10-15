@@ -4,7 +4,7 @@ In this document, we discuss our step-by-step experience using LangChain, an ope
 ### Submission Date: 24/09/2025
 
 ## Team Information
-### Tentative Name – Vera   
+### Tentative Name – Palate   
 Franco Miguel Valencia – 1009486771   
 Jisung Shin – 1004192170
 

@@ -1,6 +1,6 @@
-# Diversity in Vera
+# Diversity in Palate
 
-At ***Vera***, our goal is to build the most trustworthy and inclusive recommendation system ever. 
+At ***Palate***, our goal is to build the most trustworthy and inclusive recommendation system ever. 
 
 As such, we know that the diversity of our company will play a significant role in the dynamic of our team, our approach to customer outreach, and ultimately, the success of our product. As we strive to revolutionize how we search and review products and businesses, having a diverse, world-focused view is essential. In this document, we will discuss each team member’s areas of expertise and how they will benefit our product, including areas of potential bias, limited experience, and limited areas of diversity.
 
@@ -45,7 +45,7 @@ Second, because one of our main goals is to design a transparent recommendation 
 
 Third, the ethical and legal dimensions of our system are extremely important. For our recommendation system, we must collect enough data to ensure meaningful recommendations while not collecting so much as to risk privacy concerns. To strike the right balance, we have already begun to consult subject matter experts in recommender systems and large-scale user management, and will also meet with experts in data ethics and technology law.
 
-By seeking guidance from subject matter experts outside of simply software development, we can ensure that *Vera* is not only technically sound but socially responsible and aligned with user needs.
+By seeking guidance from subject matter experts outside of simply software development, we can ensure that *Palate* is not only technically sound but socially responsible and aligned with user needs.
 
 
 ## Unconscious Bias
@@ -67,6 +67,6 @@ While we value our team’s multicultural and cross-cultural background, we unde
 
 ## Moving Forward
 
-As *Vera* develops, we recognize that the strength of our team extends beyond technical depth and entrepreneurial background. Our global mix of members from Canada and Singapore gives us a valuable cross-cultural perspective, but we are also mindful of the limits of our diversity and the risks of unconscious bias. By being transparent about these blind spots, seeking guidance from subject matter experts, and actively engaging with users beyond our immediate circles, we aim to ensure our platform reflects fairness, inclusivity, and trustworthiness.
+As *Palate* develops, we recognize that the strength of our team extends beyond technical depth and entrepreneurial background. Our global mix of members from Canada and Singapore gives us a valuable cross-cultural perspective, but we are also mindful of the limits of our diversity and the risks of unconscious bias. By being transparent about these blind spots, seeking guidance from subject matter experts, and actively engaging with users beyond our immediate circles, we aim to ensure our platform reflects fairness, inclusivity, and trustworthiness.
 
-Ultimately, our goal is not only to build a recommender system that provides accurate suggestions but also one that earns user confidence by clearly explaining *why* recommendations are made. This commitment to transparency, inclusivity, and continuous reflection will allow *Vera* to evolve into a product that resonates with a wide variety of users and strengthens the social connections at the heart of our platform.
+Ultimately, our goal is not only to build a recommender system that provides accurate suggestions but also one that earns user confidence by clearly explaining *why* recommendations are made. This commitment to transparency, inclusivity, and continuous reflection will allow *Palate* to evolve into a product that resonates with a wide variety of users and strengthens the social connections at the heart of our platform.
